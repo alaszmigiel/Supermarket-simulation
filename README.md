@@ -40,7 +40,7 @@ SupermarketSimulation/
 ### 1. Clone the repository:
 ```sh
 git clone https://github.com/alaszmigiel/Supermarket-simulation.git
-cd SupermarketSimulation
+cd Supermarket-Simulation
 ```
 
 ### 2. Build the project:
